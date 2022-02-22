@@ -10,12 +10,12 @@ public class Operation02 {
 		System.out.println(num1 + (num2++));
 		System.out.println(num2);
 		
-		/*
+		/**
 		 * 정수형변수 dan =2 
 		 * 정수형변수 num =1
 		 * 정수형변수 result =dan*num
 		 * 2X1=2 
-		  */
+		 */
 		int dan = 2;
 		int num = 1;
 		int result = dan * num ;
